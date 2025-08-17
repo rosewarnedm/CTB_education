@@ -1,0 +1,8 @@
+*#
+ .ipynb_checkpoints
+ *pdf
+ *~
+ utilities/.*
+ utilities/__*
+ 
+ 
