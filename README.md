@@ -355,6 +355,6 @@ These figures collectively illustrate epidemiology, mechanistic underpinnings, c
 
 ## Example CT
 
-[Open in OHIF Viewer](https://viewer.ohif.org/viewer?url=https://rosewarnedm.github.io/CT_education/images/1a6cffc7270de465a1d023417ad872ae5d29b05d072e3dfdd431d87b/study.json)
+[Open in Viewer](https://lecturer.detectedx.com/case-view/13795d72-03e7-4be1-9fb2-2d7e8b269a5b)
 
 
